@@ -1,0 +1,8 @@
+{
+  "name": "Buddy AI",
+  "description": "Your forever AI companion and holistic health assistant. Create personalized AI friends with memory, or access the Health Buddy ecosystem for patients, consultants, and pharmacy needs.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
